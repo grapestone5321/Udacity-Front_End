@@ -11,7 +11,9 @@ Udacity-Front_End_Frameworks
 
 ## 4. Intro to HTML and CSS
 
-## 5. Intro to JavaScript
+## 5. HTML5 Canvas
+
+## 6. Intro to JavaScript
 
 -------
 
@@ -82,7 +84,20 @@ You'll learn about CSS syntax, selectors, and units. Along the way, you'll also 
 
 -------
 
-## 5. Intro to JavaScript
+## 5. HTML5 Canvas
+From Pixels to Animation!
+
+Canvas is an HTML5 element which gives you drawable surface inside your web pages you can control with JavaScript. 
+
+Powerful enough to use for compositing images and even creating games.
+
+In this course, through several sample projects, you’ll learn how to use the canvas; how to make compositions using shapes, images, and text; how to create effects and filters on images and how to create animations.
+
+
+
+-------
+
+## 6. Intro to JavaScript
 
 Learn the fundamentals of JavaScript, the most popular programming language in web development.
 
